@@ -1,4 +1,4 @@
-<img width="613" height="67" alt="image" src="https://github.com/user-attachments/assets/6e8126b4-ed55-403e-b5cd-68d0739fc2d8" /># NGV20260917
+# NGV20260917
 AI 개발 방법론
 
 ## 강사 예제 프로젝트
@@ -24,3 +24,10 @@ A-SPICE 4.1 버전 기준으로 CL2 수준의 산출물을 점검하는 서브 �
 ```
 A-SPICE 4.1 버전 기준으로 CL2 수준의 산출물을 점검하는 스킬 생성해줘.
 ```
+
+## 참고 자료
+### 표준
+- ISO 25000 시리즈: SW 제품 품질에 관련된 표준
+  - ISO 25010: SW 제품 품질 특성 / SW 품질이라는 것을 구체화
+  - ISO 25059: AI 특화 제품 품질 특성 (25010의 AI용 Add-on)
+- ISO 29119: 동적 SW 테스팅 표준
