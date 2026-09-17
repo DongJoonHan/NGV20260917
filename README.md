@@ -1,4 +1,4 @@
-# NGV20260917
+<img width="613" height="67" alt="image" src="https://github.com/user-attachments/assets/6e8126b4-ed55-403e-b5cd-68d0739fc2d8" /># NGV20260917
 AI 개발 방법론
 
 ## 강사 예제 프로젝트
@@ -8,6 +8,10 @@ AI 개발 방법론
 ```
 irm https://claude.ai/install.ps1 | iex
 ```
+
+## Skill 참고
+1. Superpowers: https://github.com/obra/superpowers
+
 
 ## 프롬프트
 
