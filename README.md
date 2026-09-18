@@ -9,6 +9,9 @@ AI 개발 방법론
 irm https://claude.ai/install.ps1 | iex
 ```
 
+### Libre Office 설치
+- 원활한 오피스 파일 작업을 위해 Claude 에게 Libre Office 설치를 지시했습니다. (Phase 2 단계에서)
+
 ## Skill 참고
 1. Superpowers: https://github.com/obra/superpowers
 
